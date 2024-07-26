@@ -17,5 +17,6 @@ console.log(userName);
 console.log(userNumber);
 
 userName='IBM';
+userNumber=20;
 console.log(userName);
-console.log(68/3.4);
+console.log(userNumber);
