@@ -1,8 +1,2 @@
-let taiJu = 68;
-console.log(taiJu);
-
-let sinChou=1.7;
-console.log(sinChou);
-
-let keisansiki=68/(1.7*1.7);
-console.log(keisansiki);
+console.log(1.7*17);
+console.log(68/28.9);
