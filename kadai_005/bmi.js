@@ -16,7 +16,9 @@ userNumber=1.7;
 console.log(userName);
 console.log(userNumber);
 
-userName='BMI';
+userName='bmi';
+console.log(userName);
+userName='[体重(kg)]÷[身長(m)×身長(m)]';
 userNumber=68/(1.7*1.7);
 console.log(userName);
 console.log(userNumber);
