@@ -16,7 +16,7 @@ userNumber=1.7;
 console.log(userName);
 console.log(userNumber);
 
-userName='IBM';
-userNumber=20;
+userName='BMI';
+userNumber=68/(1.7*1.7);
 console.log(userName);
 console.log(userNumber);
